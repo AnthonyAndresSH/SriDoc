@@ -1,4 +1,4 @@
-server=192.168.0.96\soporte2019
-database=ASE2022
-username=wfadmin
-password=Sfb123**
+server=server\instancia
+database=basededatos
+username=usuario
+password=contrasenia
