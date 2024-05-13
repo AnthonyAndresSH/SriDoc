@@ -1,0 +1,5 @@
+from procesos.descarga_documentos import obtiene_facturas
+from procesos.descarga_documentos import obtiene_retenciones
+
+obtiene_facturas()
+obtiene_retenciones()
